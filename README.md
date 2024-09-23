@@ -1,4 +1,4 @@
-# Editors-in-chief of epidemiology 
+# Editors-in-chief of epidemiology journals
 
 Repository for analysis of epidemiology journals' editors
 
